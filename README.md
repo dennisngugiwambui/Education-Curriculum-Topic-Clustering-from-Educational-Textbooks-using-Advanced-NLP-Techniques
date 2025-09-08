@@ -12,7 +12,8 @@ This research project develops a comprehensive, production-grade system for auto
 
 ### Data Collection and Processing Performance
 
-![Data Collection Analysis](data_collection_analysis.png)
+<img width="3535" height="2338" alt="image" src="https://github.com/user-attachments/assets/cfd4afde-6c2a-498b-a544-0da2dee949f1" />
+
 
 The data collection and processing phase represents a critical foundation for the entire curriculum analysis pipeline, demonstrating exceptional performance across multiple quality metrics. The system successfully collected 96 educational content items from the comprehensive Kenya Education Cloud ecosystem, encompassing diverse educational materials ranging from digital textbooks to supplementary curriculum documents. Through rigorous quality filtering mechanisms that evaluate content relevance, educational value, and structural integrity, 95 items were retained for analysis, representing an outstanding 98.96% success rate in content processing. This remarkable retention rate indicates the robustness of the data collection methodology and the high quality of source materials from the Kenya Education Cloud platform. The systematic approach to content validation ensures that only educationally relevant and structurally sound materials proceed to the advanced NLP analysis phases, thereby maintaining the integrity and reliability of subsequent research findings.
 
