@@ -1,0 +1,33 @@
+{
+  "total_items": 96,
+  "subjects_found": [
+    "agriculture",
+    "art",
+    "mathematics",
+    "english",
+    "chemistry",
+    "religious_education",
+    "physical_education",
+    "computer",
+    "business",
+    "kiswahili",
+    "physics",
+    "biology",
+    "home_science",
+    "history",
+    "music",
+    "geography"
+  ],
+  "grade_levels_found": [
+    "grade_6",
+    "unknown",
+    "form_1",
+    "grade_1"
+  ],
+  "curricula_found": [
+    "unknown",
+    "cbc"
+  ],
+  "failed_urls": [],
+  "scraping_completed": "2025-09-08T01:49:19.838493"
+}

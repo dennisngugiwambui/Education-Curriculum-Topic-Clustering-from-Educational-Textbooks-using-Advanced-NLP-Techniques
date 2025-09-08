@@ -1,0 +1,50 @@
+{
+  "research_metadata": {
+    "title": "NLP-Based Curriculum Topic Clustering from Educational Textbooks",
+    "author": "Dennis Ngugi",
+    "institution": "Masters Research Project",
+    "execution_date": "2025-09-08T01:33:29.561615",
+    "execution_duration": "0:06:07.380150",
+    "total_phases_completed": 4,
+    "errors_encountered": 0
+  },
+  "research_objectives": {
+    "primary": "Develop NLP-based system for curriculum topic clustering from educational textbooks",
+    "secondary": [
+      "Implement Latent Dirichlet Allocation for topic modeling",
+      "Apply hierarchical clustering for content organization",
+      "Generate automated curriculum maps",
+      "Detect content overlaps and gaps",
+      "Provide data-driven insights for curriculum design"
+    ],
+    "achieved": true
+  },
+  "methodology": {
+    "data_collection": {
+      "sources": "Kenya Education Cloud (KEC) comprehensive portals",
+      "content_types": "Digital textbooks, course materials, curriculum documents",
+      "quality_filtering": "Minimum 100 characters",
+      "total_documents": 94
+    },
+    "nlp_techniques": {
+      "preprocessing": "NLTK-based tokenization, lemmatization, POS tagging",
+      "topic_modeling": "LDA with 30 topics",
+      "clustering": "Hierarchical clustering with 25 clusters",
+      "feature_extraction": "TF-IDF and Count Vectorization"
+    },
+    "evaluation_metrics": {
+      "topic_coherence": 0.6738362382837021,
+      "cluster_quality": "Silhouette score and Calinski-Harabasz index",
+      "curriculum_coverage": "Subject and grade level completeness analysis"
+    }
+  },
+  "results": {
+    "data_collection_results": {
+      "status": "SUCCESS",
+      "total_items_scraped": 95,
+      "quality_items_retained": 94,
+      "data_files": {
+        "json_file": "masters_research_dataset_20250908_013734.json",
+        "csv_file": "masters_research_dataset_20250908_013734.csv",
+        "stats_file": "masters_research_dataset_stats_20250908_013734.json",
+        "dataframe": 

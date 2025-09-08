@@ -22,7 +22,7 @@ Key Algorithms:
 - Curriculum-specific feature extraction and validation
 
 Author: Dennis Ngugi
-Research Level: Masters Thesis
+Research Level: Curriculum Thesis
 Institution: Advanced Educational Technology Research
 """
 
@@ -74,7 +74,7 @@ logger = logging.getLogger(__name__)
 
 class AdvancedCurriculumTopicClusterer:
     """
-    Advanced NLP-based curriculum topic clustering system for masters research
+    Advanced NLP-based curriculum topic clustering system for curriculum research
     
     This class implements state-of-the-art techniques for automated curriculum analysis:
     - Multi-algorithm topic modeling (LDA, NMF, BERTopic)

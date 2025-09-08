@@ -4,9 +4,9 @@
 
 This research project develops a comprehensive, production-grade system for automated curriculum topic clustering from Kenyan educational textbooks using state-of-the-art Natural Language Processing (NLP) techniques. The system implements advanced machine learning algorithms including Latent Dirichlet Allocation (LDA) for topic modeling, hierarchical clustering for content organization, and sophisticated preprocessing pipelines optimized for educational content analysis. Through systematic analysis of educational content from the Kenya Education Cloud ecosystem, this research demonstrates the effectiveness of automated approaches in curriculum organization, content gap identification, and educational insight generation.
 
-## Research Abstract
+## Project Overview
 
-This research project develops a comprehensive, production-grade system for automated curriculum topic clustering from Kenyan educational textbooks using state-of-the-art Natural Language Processing (NLP) techniques. The system implements advanced machine learning algorithms including Latent Dirichlet Allocation (LDA) for topic modeling, hierarchical clustering for content organization, and sophisticated preprocessing pipelines optimized for educational content analysis. Through systematic analysis of educational content from the Kenya Education Cloud ecosystem, this research demonstrates the effectiveness of automated approaches in curriculum organization, content gap identification, and educational insight generation.
+This advanced educational technology research project addresses the critical challenge of automated curriculum organization in modern educational systems. By leveraging cutting-edge NLP techniques and machine learning algorithms, the system processes large collections of educational textbooks and automatically generates comprehensive curriculum maps. The research contributes to the field of educational data mining and provides practical solutions for curriculum designers, educational institutions, and policy makers seeking data-driven approaches to curriculum development.
 
 ## Research Visualizations and Analysis
 
@@ -21,7 +21,7 @@ The high processing success rate of 98.96% reflects the sophisticated quality as
 
 ### NLP Performance and System Configuration
 
-![NLP Performance Analysis](nlp_performance_analysis.png)
+![NLP Performance and System Configuration Analysis](nlp_performance_analysis.png)
 
 The Natural Language Processing analysis reveals exceptional model performance through comprehensive topic coherence evaluation and systematic parameter optimization. The Latent Dirichlet Allocation model achieved a topic coherence score of 0.6322, indicating highly effective topic separation and meaningful thematic clustering within the educational content corpus. This coherence score significantly exceeds typical benchmarks for educational text analysis, demonstrating that the identified topics represent genuine thematic distinctions rather than arbitrary statistical groupings. The remaining 36.78% represents potential improvement opportunities, suggesting areas where additional preprocessing, parameter tuning, or alternative modeling approaches could further enhance topic quality. The high coherence score validates the effectiveness of the educational domain-specific preprocessing pipeline, which includes specialized tokenization, educational terminology preservation, and curriculum-aware feature extraction techniques.
 

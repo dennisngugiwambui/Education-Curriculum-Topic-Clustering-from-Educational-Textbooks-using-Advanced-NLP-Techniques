@@ -36,13 +36,13 @@ def cleanup_directory():
             except Exception as e:
                 print(f"❌ Could not remove {filename}: {e}")
     
-    # Rename files to remove 'masters_research_' prefix
+    # Rename files to remove 'curriculum_analysis_' prefix
     rename_mappings = {
-        'masters_research_comprehensive_report_20250908_005917.json': 'research_comprehensive_report.json',
-        'masters_research_dataset_20250908_005652.csv': 'research_dataset.csv',
-        'masters_research_dataset_20250908_005652.json': 'research_dataset.json',
-        'masters_research_dataset_stats_20250908_005652.json': 'research_dataset_stats.json',
-        'masters_research_nlp_results_20250908_005839.csv': 'research_nlp_results.csv'
+        'curriculum_analysis_comprehensive_report_20250908_005917.json': 'comprehensive_report.json',
+        'curriculum_analysis_dataset_20250908_005652.csv': 'research_dataset.csv',
+        'curriculum_analysis_dataset_20250908_005652.json': 'dataset.json',
+        'curriculum_analysis_dataset_stats_20250908_005652.json': 'dataset_stats.json',
+        'curriculum_analysis_nlp_results_20250908_005839.csv': 'research_nlp_results.csv'
     }
     
     renamed_count = 0

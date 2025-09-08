@@ -4,9 +4,9 @@
 
 This research project develops a comprehensive, production-grade system for automated curriculum topic clustering from Kenyan educational textbooks using state-of-the-art Natural Language Processing (NLP) techniques. The system implements advanced machine learning algorithms including Latent Dirichlet Allocation (LDA) for topic modeling, hierarchical clustering for content organization, and sophisticated preprocessing pipelines optimized for educational content analysis. Through systematic analysis of educational content from the Kenya Education Cloud ecosystem, this research demonstrates the effectiveness of automated approaches in curriculum organization, content gap identification, and educational insight generation.
 
-## Research Abstract
+## Project Overview
 
-This research project develops a comprehensive, production-grade system for automated curriculum topic clustering from Kenyan educational textbooks using state-of-the-art Natural Language Processing (NLP) techniques. The system implements advanced machine learning algorithms including Latent Dirichlet Allocation (LDA) for topic modeling, hierarchical clustering for content organization, and sophisticated preprocessing pipelines optimized for educational content analysis. Through systematic analysis of educational content from the Kenya Education Cloud ecosystem, this research demonstrates the effectiveness of automated approaches in curriculum organization, content gap identification, and educational insight generation.
+This advanced educational technology research project addresses the critical challenge of automated curriculum organization in modern educational systems. By leveraging cutting-edge NLP techniques and machine learning algorithms, the system processes large collections of educational textbooks and automatically generates comprehensive curriculum maps. The research contributes to the field of educational data mining and provides practical solutions for curriculum designers, educational institutions, and policy makers seeking data-driven approaches to curriculum development.
 
 ## Research Visualizations and Analysis
 

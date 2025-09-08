@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MASTERS RESEARCH: NLP-BASED CURRICULUM TOPIC CLUSTERING SYSTEM
+CURRICULUM_ANALYSIS: NLP-BASED CURRICULUM TOPIC CLUSTERING SYSTEM
 ===============================================================
 
 Comprehensive automated system for curriculum topic clustering from educational textbooks
@@ -9,7 +9,7 @@ and hierarchical clustering for intelligent curriculum organization.
 
 Author: Dennis Ngugi
 Research Focus: Automated curriculum mapping, topic modeling, educational data mining
-Institution: Masters Research Project
+Institution: Curriculum Analysis Project
 Date: 2025
 
 This system addresses the critical need for intelligent curriculum organization in educational
@@ -37,7 +37,7 @@ def setup_logging():
     log_dir.mkdir(exist_ok=True)
     
     timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-    log_file = log_dir / f"masters_research_execution_{timestamp}.log"
+    log_file = log_dir / f"curriculum_analysis_execution_{timestamp}.log"
     
     # Create formatters
     detailed_formatter = logging.Formatter(
@@ -68,9 +68,9 @@ def setup_logging():
     
     return root_logger, log_file
 
-class MastersResearchPipeline:
+class CurriculumAnalysisPipeline:
     """
-    Comprehensive pipeline for masters research on curriculum topic clustering
+    Comprehensive pipeline for curriculum analysis on curriculum topic clustering
     
     This class orchestrates the entire research workflow from data collection
     to advanced NLP analysis and results generation.
@@ -95,7 +95,7 @@ class MastersResearchPipeline:
             'cluster_silhouette_threshold': 0.3
         }
         
-        self.logger.info("🎓 MASTERS RESEARCH PIPELINE INITIALIZED")
+        self.logger.info("🎓 CURRICULUM_ANALYSIS PIPELINE INITIALIZED")
         self.logger.info(f"Research Title: {self.config['research_title']}")
         self.logger.info(f"Configuration: {self.config}")
     
@@ -129,7 +129,7 @@ class MastersResearchPipeline:
                 'ipykernel>=6.25.1'
             ]
             
-            self.logger.info("Installing required packages for masters research...")
+            self.logger.info("Installing required packages for curriculum analysis...")
             
             for package in packages:
                 try:
@@ -263,7 +263,7 @@ class MastersResearchPipeline:
             self.logger.info(f"📊 Quality filtering: {len(scraped_data)} → {len(quality_data)} items")
             
             # Save comprehensive dataset
-            saved_files = scraper.save_data('masters_research_dataset')
+            saved_files = scraper.save_data('curriculum_analysis_dataset')
             
             # Generate curriculum report
             curriculum_report = scraper.generate_curriculum_report()
@@ -336,7 +336,7 @@ class MastersResearchPipeline:
             clusterer.visualize_results(df, save_plots=True)
             
             # Save comprehensive results
-            saved_files = clusterer.save_results(df, 'masters_research_nlp_results')
+            saved_files = clusterer.save_results(df, 'curriculum_analysis_nlp_results')
             
             self.execution_results['nlp_analysis'] = {
                 'status': 'SUCCESS',
@@ -447,8 +447,8 @@ class MastersResearchPipeline:
             }
             return None, None, None
     
-    def generate_masters_research_report(self, df, curriculum_map, qa_results):
-        """Phase 4: Generate Comprehensive Masters Research Report"""
+    def generate_curriculum_analysis_report(self, df, curriculum_map, qa_results):
+        """Phase 4: Generate Comprehensive Curriculum Analysis Report"""
         self.current_phase = "Phase 4: Research Report Generation"
         self.logger.info(f"📋 {self.current_phase}")
         
@@ -461,7 +461,7 @@ class MastersResearchPipeline:
                 'research_metadata': {
                     'title': self.config['research_title'],
                     'author': 'Dennis Ngugi',
-                    'institution': 'Masters Research Project',
+                    'institution': 'Curriculum Analysis Project',
                     'execution_date': self.start_time.isoformat(),
                     'execution_duration': str(execution_time),
                     'total_phases_completed': len([r for r in self.execution_results.values() if r['status'] == 'SUCCESS']),
@@ -529,7 +529,7 @@ class MastersResearchPipeline:
             
             # Save comprehensive report
             timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
-            report_file = f'masters_research_comprehensive_report_{timestamp}.json'
+            report_file = f'curriculum_analysis_comprehensive_report_{timestamp}.json'
             
             # Convert any DataFrames to serializable format before saving
             def make_serializable(obj):
@@ -573,9 +573,9 @@ class MastersResearchPipeline:
             return None
     
     def generate_executive_summary(self, research_report, timestamp):
-        """Generate executive summary for masters research"""
+        """Generate executive summary for curriculum analysis"""
         summary = f"""
-# MASTERS RESEARCH EXECUTIVE SUMMARY
+# CURRICULUM_ANALYSIS EXECUTIVE SUMMARY
 ## {research_report['research_metadata']['title']}
 
 **Author:** {research_report['research_metadata']['author']}
@@ -613,15 +613,15 @@ through proper implementation with appropriate validation mechanisms.
 
 ---
 *Report ID: {timestamp}*
-*Generated by Masters Research Pipeline*
+*Generated by Curriculum Analysis Pipeline*
 """
         
-        with open(f'masters_research_executive_summary_{timestamp}.md', 'w', encoding='utf-8') as f:
+        with open(f'curriculum_analysis_executive_summary_{timestamp}.md', 'w', encoding='utf-8') as f:
             f.write(summary)
     
     def run_complete_research_pipeline(self):
-        """Execute the complete masters research pipeline"""
-        self.logger.info("🎓 STARTING MASTERS RESEARCH PIPELINE")
+        """Execute the complete curriculum analysis pipeline"""
+        self.logger.info("🎓 STARTING CURRICULUM_ANALYSIS PIPELINE")
         self.logger.info("=" * 80)
         self.logger.info(f"Research Title: {self.config['research_title']}")
         self.logger.info("=" * 80)
@@ -654,7 +654,7 @@ through proper implementation with appropriate validation mechanisms.
                 self.logger.warning("⚠️ ML classification had issues, continuing...")
             
             # Phase 4: Research Report
-            research_report = self.generate_masters_research_report(df, curriculum_map, qa_results)
+            research_report = self.generate_curriculum_analysis_report(df, curriculum_map, qa_results)
             if not research_report:
                 self.logger.error("❌ PIPELINE FAILED: Research report generation")
                 return False
@@ -662,7 +662,7 @@ through proper implementation with appropriate validation mechanisms.
             # Final Summary
             self.print_final_summary()
             
-            self.logger.info("🎉 MASTERS RESEARCH PIPELINE COMPLETED SUCCESSFULLY!")
+            self.logger.info("🎉 CURRICULUM_ANALYSIS PIPELINE COMPLETED SUCCESSFULLY!")
             return True
             
         except Exception as e:
@@ -673,7 +673,7 @@ through proper implementation with appropriate validation mechanisms.
     def print_final_summary(self):
         """Print comprehensive final summary"""
         self.logger.info("\n" + "=" * 80)
-        self.logger.info("🎓 MASTERS RESEARCH PIPELINE SUMMARY")
+        self.logger.info("🎓 CURRICULUM_ANALYSIS PIPELINE SUMMARY")
         self.logger.info("=" * 80)
         
         total_time = datetime.now() - self.start_time
@@ -715,11 +715,11 @@ through proper implementation with appropriate validation mechanisms.
         self.logger.info("=" * 80)
 
 def main():
-    """Main execution function for masters research"""
-    print("🎓 MASTERS RESEARCH: NLP-BASED CURRICULUM TOPIC CLUSTERING")
+    """Main execution function for curriculum analysis"""
+    print("🎓 CURRICULUM_ANALYSIS: NLP-BASED CURRICULUM TOPIC CLUSTERING")
     print("=" * 80)
     print("Automated curriculum mapping using advanced NLP techniques")
-    print("Author: Dennis Ngugi | Masters Research Project")
+    print("Author: Dennis Ngugi | Curriculum Analysis Project")
     print("=" * 80)
     
     # Setup logging
@@ -727,11 +727,11 @@ def main():
     logger.info(f"Logging initialized: {log_file}")
     
     # Initialize and run research pipeline
-    pipeline = MastersResearchPipeline()
+    pipeline = CurriculumAnalysisPipeline()
     success = pipeline.run_complete_research_pipeline()
     
     if success:
-        print("\n🎉 MASTERS RESEARCH COMPLETED SUCCESSFULLY!")
+        print("\n🎉 CURRICULUM_ANALYSIS COMPLETED SUCCESSFULLY!")
         print("Check the generated files for comprehensive results and analysis.")
         print(f"📋 Detailed logs available in: {log_file}")
     else:
