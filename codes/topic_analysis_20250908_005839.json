@@ -1,0 +1,932 @@
+{
+  "topic_0": {
+    "words": [
+      "area",
+      "log",
+      "free",
+      "enroll",
+      "resource",
+      "menu",
+      "review",
+      "price",
+      "price free",
+      "email"
+    ],
+    "weights": [
+      258.66746476620045,
+      100.17354859150487,
+      88.64183313855567,
+      85.00999999999797,
+      75.62215078246672,
+      69.1716852157959,
+      64.01000335822498,
+      61.00999999999788,
+      61.00999999999788,
+      58.06765276048705
+    ],
+    "interpretation": {
+      "subject": "mathematics",
+      "category": "geometry",
+      "confidence": 0.14285714285714285
+    }
+  },
+  "topic_1": {
+    "words": [
+      "textbook",
+      "strand",
+      "strand number",
+      "build",
+      "free",
+      "license",
+      "project",
+      "engage",
+      "creating",
+      "access open"
+    ],
+    "weights": [
+      17.570752856031742,
+      16.010031716338897,
+      16.010031716338897,
+      4.010734662424577,
+      4.010012232939323,
+      4.0100038544442285,
+      4.010002755055766,
+      4.010001000032257,
+      2.0100020425798393,
+      2.0100019689889757
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_2": {
+    "words": [
+      "competency",
+      "competency based",
+      "need",
+      "special need",
+      "special",
+      "communication",
+      "develop",
+      "design",
+      "needed",
+      "educhannel"
+    ],
+    "weights": [
+      45.0099999999912,
+      39.009999999989894,
+      28.85948145952947,
+      26.580510739113127,
+      26.53796256025768,
+      6.904211009398084,
+      5.010002101445803,
+      5.009999999957489,
+      5.009999999957489,
+      3.621758781491731
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_3": {
+    "words": [
+      "password",
+      "username",
+      "username password",
+      "user",
+      "forgotten",
+      "remember",
+      "login",
+      "browser",
+      "cooky enabled",
+      "forgotten username"
+    ],
+    "weights": [
+      29.299104073564678,
+      29.00785154288444,
+      17.9769969250978,
+      13.70617238289827,
+      11.009999999998795,
+      9.523813553018911,
+      9.107800875518846,
+      9.01000566471543,
+      9.009999999999852,
+      9.009999999999852
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_4": {
+    "words": [
+      "format",
+      "innovative",
+      "access quality",
+      "available",
+      "helping",
+      "year pre primary",
+      "following category",
+      "follow external",
+      "follow external link",
+      "following"
+    ],
+    "weights": [
+      8.00999999998801,
+      6.009999999991471,
+      6.009999999991471,
+      6.009999999991471,
+      2.010003490543486,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_5": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_6": {
+    "words": [
+      "area",
+      "resource",
+      "event",
+      "forum",
+      "menu",
+      "app",
+      "home",
+      "calendar",
+      "mobile",
+      "mobile app"
+    ],
+    "weights": [
+      136.67672564337698,
+      88.53684441185945,
+      83.97524210250576,
+      79.99624429307808,
+      78.93462762720624,
+      70.07626299617161,
+      68.1214833176985,
+      66.86118538311449,
+      66.05300409988027,
+      66.05097025395106
+    ],
+    "interpretation": {
+      "subject": "mathematics",
+      "category": "geometry",
+      "confidence": 0.14285714285714285
+    }
+  },
+  "topic_7": {
+    "words": [
+      "item",
+      "approved",
+      "book",
+      "publisher",
+      "activity",
+      "activity number",
+      "art",
+      "language",
+      "technology",
+      "science"
+    ],
+    "weights": [
+      376.0099999999983,
+      281.010097114668,
+      246.0100653823049,
+      188.01004457889687,
+      132.91199635515454,
+      114.7230043575487,
+      94.52042642727606,
+      85.63915039746415,
+      84.18908485079456,
+      72.1229023930639
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_8": {
+    "words": [
+      "teken",
+      "die",
+      "van",
+      "gebruikersnaam",
+      "profiel",
+      "skep",
+      "nuwe profiel",
+      "nuwe",
+      "jou",
+      "oor"
+    ],
+    "weights": [
+      45.0099999999986,
+      41.00999999999935,
+      38.009999999999316,
+      34.009999999998946,
+      32.00999999999926,
+      32.00999999999926,
+      26.009999999999177,
+      26.009999999999177,
+      24.009999999998826,
+      21.009999999998847
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_9": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_10": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_11": {
+    "words": [
+      "account",
+      "sign",
+      "password",
+      "username",
+      "log",
+      "account sign",
+      "email",
+      "forgot password",
+      "forgot",
+      "remember"
+    ],
+    "weights": [
+      81.9926265361885,
+      76.88981284013967,
+      57.54275663104347,
+      56.20305939904679,
+      56.01001717813242,
+      49.0100095804122,
+      31.59869961109332,
+      28.95599717116704,
+      28.95599717116704,
+      28.15931779546607
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_12": {
+    "words": [
+      "digital",
+      "approved",
+      "book",
+      "authority",
+      "material",
+      "ministry",
+      "list",
+      "info kicd",
+      "info",
+      "search"
+    ],
+    "weights": [
+      39.010030647950025,
+      39.01000757640111,
+      36.01000404486844,
+      24.01002314617558,
+      24.0100221919274,
+      24.01001936980571,
+      24.01001114676402,
+      18.010003006303176,
+      18.010002244482177,
+      15.010012058354036
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_13": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_14": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_15": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_16": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_17": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_18": {
+    "words": [
+      "software",
+      "number home calendar",
+      "year pre primary",
+      "follow contact",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category"
+    ],
+    "weights": [
+      2.0100388270452094,
+      2.009999999843603,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_19": {
+    "words": [
+      "lesson",
+      "primary",
+      "primary number",
+      "educhannel",
+      "interactive",
+      "digital",
+      "digital content",
+      "interactive digital",
+      "interactive digital content",
+      "educhannel lesson"
+    ],
+    "weights": [
+      13580.984629830946,
+      9542.206486542505,
+      8295.994071691628,
+      8216.398241218387,
+      8130.485108440108,
+      8125.692997757853,
+      7886.887853266997,
+      7837.8778816009935,
+      7835.87577374534,
+      7703.009999999886
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_20": {
+    "words": [
+      "sne",
+      "digital",
+      "cbc",
+      "sne number",
+      "primary",
+      "number cbc",
+      "number cbc sne",
+      "cbc sne",
+      "primary number",
+      "pre"
+    ],
+    "weights": [
+      115.60244600226049,
+      82.01154765359297,
+      80.14765589574635,
+      80.00999999999854,
+      75.71496685309414,
+      72.00999999999854,
+      72.00999999999854,
+      72.00999999999854,
+      57.956056615467624,
+      57.954200201006735
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_21": {
+    "words": [
+      "digital",
+      "digital content",
+      "resource",
+      "learner",
+      "access",
+      "accessible",
+      "access digital",
+      "access digital content",
+      "interactive",
+      "material"
+    ],
+    "weights": [
+      45.43202289472519,
+      40.27405097805003,
+      35.42866921593495,
+      32.87405609758656,
+      28.76887392984432,
+      24.876208145554276,
+      20.009999999998886,
+      20.009999999998886,
+      17.835835636232527,
+      16.940701861884325
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_22": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_23": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_24": {
+    "words": [
+      "follow",
+      "resource",
+      "english",
+      "digital",
+      "search",
+      "afrikaans",
+      "course",
+      "log",
+      "link",
+      "additional"
+    ],
+    "weights": [
+      55.684904226574204,
+      53.951922253353814,
+      46.6182401635863,
+      43.83517649042663,
+      41.82556663151146,
+      38.00999999999861,
+      37.016570904480474,
+      33.25419302228936,
+      30.206325091209948,
+      28.376874176017044
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_25": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_26": {
+    "words": [
+      "resource",
+      "area",
+      "share",
+      "menu",
+      "open",
+      "support",
+      "open resource",
+      "forum",
+      "resource menu area",
+      "log register"
+    ],
+    "weights": [
+      91.47769197077086,
+      74.68580959041311,
+      56.00999999999203,
+      47.92368715699353,
+      44.80606287096687,
+      44.0100100956866,
+      40.19510131402245,
+      37.68233583522482,
+      37.65169160693804,
+      37.65169160693804
+    ],
+    "interpretation": {
+      "subject": "mathematics",
+      "category": "geometry",
+      "confidence": 0.14285714285714285
+    }
+  },
+  "topic_27": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_28": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_29": {
+    "words": [
+      "year pre primary",
+      "follow additional resource",
+      "forgot password teken",
+      "forgot password log",
+      "forgot password",
+      "forgot",
+      "following category explore",
+      "following category",
+      "following",
+      "follow external link"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  }
+}

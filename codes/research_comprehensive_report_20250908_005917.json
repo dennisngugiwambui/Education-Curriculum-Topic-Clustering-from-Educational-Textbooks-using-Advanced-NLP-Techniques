@@ -1,0 +1,54 @@
+{
+  "research_metadata": {
+    "title": "NLP-Based Curriculum Topic Clustering from Educational Textbooks",
+    "author": "Dennis Ngugi",
+    "institution": "Research Project",
+    "execution_date": "2025-09-08T00:52:52.002471",
+    "execution_duration": "0:06:25.300780",
+    "total_phases_completed": 4,
+    "errors_encountered": 0
+  },
+  "research_objectives": {
+    "primary": "Develop NLP-based system for curriculum topic clustering from educational textbooks",
+    "secondary": [
+      "Implement Latent Dirichlet Allocation for topic modeling",
+      "Apply hierarchical clustering for content organization",
+      "Generate automated curriculum maps",
+      "Detect content overlaps and gaps",
+      "Provide data-driven insights for curriculum design"
+    ],
+    "achieved": true
+  },
+  "methodology": {
+    "data_collection": {
+      "sources": "Kenya Education Cloud (KEC) comprehensive portals",
+      "content_types": "Digital textbooks, course materials, curriculum documents",
+      "quality_filtering": "Minimum 100 characters",
+      "total_documents": 95
+    },
+    "nlp_techniques": {
+      "preprocessing": "NLTK-based tokenization, lemmatization, POS tagging",
+      "topic_modeling": "LDA with 30 topics",
+      "clustering": "Hierarchical clustering with 25 clusters",
+      "feature_extraction": "TF-IDF and Count Vectorization"
+    },
+    "evaluation_metrics": {
+      "topic_coherence": 0.6321915379190943,
+      "cluster_quality": "Silhouette score and Calinski-Harabasz index",
+      "curriculum_coverage": "Subject and grade level completeness analysis"
+    }
+  },
+  "results": {
+    "data_collection_results": {
+      "status": "SUCCESS",
+      "total_items_scraped": 96,
+      "quality_items_retained": 95,
+      "data_files": {
+        "json_file": "masters_research_dataset_20250908_005652.json",
+        "csv_file": "masters_research_dataset_20250908_005652.csv",
+        "stats_file": "masters_research_dataset_stats_20250908_005652.json",
+        "dataframe": "masters_research_dataset_20250908_005652.csv"
+      }
+    }
+  }
+}

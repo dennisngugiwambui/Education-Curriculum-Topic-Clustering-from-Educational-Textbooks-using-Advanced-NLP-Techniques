@@ -1,0 +1,414 @@
+{
+  "cluster_7": {
+    "size": 31,
+    "subjects": [
+      "mathematics",
+      "science",
+      "social_studies"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.199410209110066,
+    "dominant_topics": [
+      28
+    ],
+    "sample_titles": [
+      "Child Online Safety",
+      "Special Needs Education",
+      "Open Education Resourses(OERs)"
+    ]
+  },
+  "cluster_23": {
+    "size": 1,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.3650684931506847,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "Health Literacy"
+    ]
+  },
+  "cluster_24": {
+    "size": 1,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.508461538461538,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_9": {
+    "size": 3,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 1.9047619047619044,
+    "dominant_topics": [
+      17
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_6": {
+    "size": 2,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.386116589962744,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "ABRACADABRA Grade 1,2 and 3",
+      "READS"
+    ]
+  },
+  "cluster_8": {
+    "size": 4,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.4502304147465437,
+    "dominant_topics": [
+      10
+    ],
+    "sample_titles": [
+      "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+      "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+      "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences"
+    ]
+  },
+  "cluster_3": {
+    "size": 3,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.5274069713819496,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "Digital Content Portal",
+      "Digital Content Portal",
+      "Digital Content Portal"
+    ]
+  },
+  "cluster_1": {
+    "size": 6,
+    "subjects": [],
+    "grade_levels": [
+      "unknown",
+      "grade_6",
+      "grade_1"
+    ],
+    "avg_complexity": 1.9301588239489174,
+    "dominant_topics": [
+      12
+    ],
+    "sample_titles": [
+      "Contact – oer.kec.ac.ke",
+      "About – oer.kec.ac.ke",
+      "Events for September 2025 – oer.kec.ac.ke"
+    ]
+  },
+  "cluster_11": {
+    "size": 4,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.218536585365854,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "Kenya Education Cloud | Unlimited learning experiences",
+      "Kenya Education Cloud | Unlimited learning experiences",
+      "Kenya Education Cloud | Unlimited learning experiences"
+    ]
+  },
+  "cluster_12": {
+    "size": 2,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.2650061425061425,
+    "dominant_topics": [
+      7,
+      4
+    ],
+    "sample_titles": [
+      "Kenya Education Cloud | Unlimited learning experiences",
+      "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences"
+    ]
+  },
+  "cluster_16": {
+    "size": 3,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.222153846153846,
+    "dominant_topics": [
+      25
+    ],
+    "sample_titles": [
+      "Search | Verify",
+      "Search | Verify",
+      "Search | Verify"
+    ]
+  },
+  "cluster_14": {
+    "size": 1,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.4756521739130433,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "Kenya Education Cloud | Unlimited learning experiences"
+    ]
+  },
+  "cluster_20": {
+    "size": 1,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.2304347826086954,
+    "dominant_topics": [
+      26
+    ],
+    "sample_titles": [
+      "Sign in"
+    ]
+  },
+  "cluster_22": {
+    "size": 7,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.5137681159420286,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_4": {
+    "size": 7,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 1.9106870229007635,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_21": {
+    "size": 1,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "form_1"
+    ],
+    "avg_complexity": 2.2704225352112677,
+    "dominant_topics": [
+      7
+    ],
+    "sample_titles": [
+      "Digital Content Portal"
+    ]
+  },
+  "cluster_0": {
+    "size": 3,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.2579344368929593,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_15": {
+    "size": 2,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.410526315789473,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_5": {
+    "size": 4,
+    "subjects": [],
+    "grade_levels": [
+      "grade_6"
+    ],
+    "avg_complexity": 1.9188464724578758,
+    "dominant_topics": [
+      8
+    ],
+    "sample_titles": [
+      "Grade 6 Christian Religious Education",
+      "Grade 6 Social Studies – Strand 2 (Visual Impairment)",
+      "Grade 6 Music"
+    ]
+  },
+  "cluster_10": {
+    "size": 3,
+    "subjects": [],
+    "grade_levels": [
+      "grade_6"
+    ],
+    "avg_complexity": 2.0827635327635328,
+    "dominant_topics": [
+      12
+    ],
+    "sample_titles": [
+      "oer.kec.ac.ke",
+      "oer.kec.ac.ke",
+      "oer.kec.ac.ke"
+    ]
+  },
+  "cluster_18": {
+    "size": 1,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.3414455626715465,
+    "dominant_topics": [
+      6
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  },
+  "cluster_2": {
+    "size": 2,
+    "subjects": [],
+    "grade_levels": [
+      "grade_1"
+    ],
+    "avg_complexity": 2.014761055937526,
+    "dominant_topics": [
+      20,
+      8
+    ],
+    "sample_titles": [
+      "Advanced search",
+      "Courses – oer.kec.ac.ke"
+    ]
+  },
+  "cluster_19": {
+    "size": 1,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.23,
+    "dominant_topics": [
+      24
+    ],
+    "sample_titles": [
+      "Sorry, something went wrong."
+    ]
+  },
+  "cluster_13": {
+    "size": 1,
+    "subjects": [],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 1.9210526315789476,
+    "dominant_topics": [
+      8
+    ],
+    "sample_titles": [
+      "Log In"
+    ]
+  },
+  "cluster_17": {
+    "size": 1,
+    "subjects": [
+      "mathematics"
+    ],
+    "grade_levels": [
+      "unknown"
+    ],
+    "avg_complexity": 2.2793010752688168,
+    "dominant_topics": [
+      24
+    ],
+    "sample_titles": [
+      "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+    ]
+  }
+}

@@ -1,0 +1,1424 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-08T01:50:27.906781",
+    "total_documents": 95,
+    "n_topics": 30,
+    "n_clusters": 25
+  },
+  "topic_analysis": {
+    "topic_0": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_1": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_2": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_3": {
+      "words": [
+        "lesson open",
+        "lesson open resourses",
+        "home lesson open",
+        "cost",
+        "educational resource oer",
+        "restriction",
+        "literacy home",
+        "year pre primary",
+        "form1 number",
+        "forgotten username password"
+      ],
+      "weights": [
+        2.010015850872664,
+        2.010014541387926,
+        2.010014541387926,
+        2.01000405072875,
+        2.01000405072875,
+        2.01000405072875,
+        1.0100055673582622,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_4": {
+      "words": [
+        "password",
+        "username",
+        "username password",
+        "user",
+        "remember",
+        "browser",
+        "cooky enabled browser",
+        "enabled browser",
+        "forgotten username",
+        "forgotten username password"
+      ],
+      "weights": [
+        29.153960309246184,
+        27.325527237809553,
+        19.009999999999135,
+        17.196009132767013,
+        9.419643740106139,
+        9.010015462088603,
+        9.009999999999824,
+        9.009999999999824,
+        9.009999999999824,
+        9.009999999999824
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_5": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_6": {
+      "words": [
+        "teken",
+        "gebruikersnaam",
+        "profiel",
+        "skep",
+        "die",
+        "soek",
+        "nuwe profiel",
+        "nuwe",
+        "van",
+        "jou"
+      ],
+      "weights": [
+        107.00999999999802,
+        86.00999999999802,
+        76.00999999999806,
+        76.00999999999806,
+        74.00999999999802,
+        63.00999999999775,
+        62.009999999998065,
+        62.009999999998065,
+        61.00999999999798,
+        59.00999999999803
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_7": {
+      "words": [
+        "sne",
+        "sne number",
+        "cbc",
+        "number cbc sne",
+        "number cbc",
+        "cbc sne",
+        "digital",
+        "primary",
+        "cbc sne number",
+        "sne number cbc"
+      ],
+      "weights": [
+        115.07135705913755,
+        80.0099999999988,
+        72.51297455158449,
+        72.0099999999988,
+        72.0099999999988,
+        72.0099999999988,
+        68.89341785167565,
+        60.36149976743791,
+        56.00999999999878,
+        56.00999999999878
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_8": {
+      "words": [
+        "area",
+        "log",
+        "free",
+        "enroll",
+        "resource",
+        "menu",
+        "review",
+        "price free",
+        "price",
+        "home"
+      ],
+      "weights": [
+        258.0199962661058,
+        100.1267351153654,
+        89.01001036416602,
+        85.00999999999803,
+        76.77282966700824,
+        68.85765210287812,
+        63.97762739293685,
+        61.009999999997966,
+        61.009999999997966,
+        57.944475552541725
+      ],
+      "interpretation": {
+        "subject": "mathematics",
+        "category": "geometry",
+        "confidence": 0.14285714285714285
+      }
+    },
+    "topic_9": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_10": {
+      "words": [
+        "digital",
+        "digital content",
+        "resource",
+        "learner",
+        "primary",
+        "access",
+        "lesson",
+        "interactive",
+        "accessible",
+        "pre primary"
+      ],
+      "weights": [
+        67.8288506783369,
+        52.05413515960409,
+        47.935006870659414,
+        40.0700037888938,
+        35.765816472942554,
+        31.984606008508955,
+        28.02266648739804,
+        28.013276839850572,
+        28.009938011412252,
+        23.813712540338916
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_11": {
+      "words": [
+        "word",
+        "special need",
+        "educhannel",
+        "need",
+        "iec",
+        "communication iec",
+        "communication",
+        "science",
+        "specific",
+        "math"
+      ],
+      "weights": [
+        10.009999999986452,
+        3.3043352531053136,
+        3.303925954850385,
+        3.3037525364279308,
+        3.301286242463142,
+        3.301286242463142,
+        3.299720588906204,
+        3.094475608229421,
+        2.0100134107702816,
+        2.0100015989920546
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_12": {
+      "words": [
+        "area",
+        "resource",
+        "menu",
+        "event",
+        "forum",
+        "app",
+        "mobile app",
+        "mobile",
+        "calendar",
+        "home"
+      ],
+      "weights": [
+        199.9357827541471,
+        143.81359346609287,
+        127.16234789711761,
+        121.10063713910509,
+        118.07447822452707,
+        107.98681526644451,
+        103.95156460207102,
+        103.95009756030665,
+        101.9798407210262,
+        99.96748833780347
+      ],
+      "interpretation": {
+        "subject": "mathematics",
+        "category": "geometry",
+        "confidence": 0.14285714285714285
+      }
+    },
+    "topic_13": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_14": {
+      "words": [
+        "resource",
+        "oer",
+        "support",
+        "material",
+        "learner",
+        "open",
+        "ensuring",
+        "quality",
+        "digital",
+        "educational"
+      ],
+      "weights": [
+        33.51255658325043,
+        32.51687299386338,
+        19.830722551452226,
+        18.209178716035034,
+        16.970424149849368,
+        16.465796027310898,
+        14.938629507806967,
+        13.896339416957533,
+        13.679743254272672,
+        13.64767101748928
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_15": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_16": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_17": {
+      "words": [
+        "account",
+        "log",
+        "sign",
+        "username",
+        "password",
+        "account sign",
+        "password remember",
+        "password remember username",
+        "remember username",
+        "remember"
+      ],
+      "weights": [
+        34.22263911716873,
+        33.01001928468688,
+        30.811941381241812,
+        26.582698447785237,
+        25.65806985430392,
+        22.009999999999664,
+        18.01000131241117,
+        18.00999999999861,
+        18.00999999999861,
+        13.324483877614924
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_18": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_19": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_20": {
+      "words": [
+        "item",
+        "approved",
+        "book",
+        "publisher",
+        "activity",
+        "activity number",
+        "art",
+        "language",
+        "technology",
+        "science"
+      ],
+      "weights": [
+        376.0099999999982,
+        281.0101085682237,
+        246.01001814590617,
+        188.01000847207834,
+        133.32861873650646,
+        114.99847276934254,
+        94.90141722601449,
+        84.91826091281098,
+        84.10905548991107,
+        73.73280457463541
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_21": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_22": {
+      "words": [
+        "concordia university",
+        "ltk",
+        "university",
+        "concordia",
+        "abracadabra",
+        "abracadabra number",
+        "abracadabra number number",
+        "ltk concordia university",
+        "oers ltk",
+        "resourses oers ltk"
+      ],
+      "weights": [
+        8.049949206257986,
+        8.049949206257986,
+        8.048806410340065,
+        8.04811734857458,
+        7.010004965337238,
+        5.010003426947116,
+        5.010003426947116,
+        4.028914741768543,
+        4.028914741768543,
+        4.028914741768543
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_23": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_24": {
+      "words": [
+        "skill",
+        "based",
+        "competency",
+        "cbc",
+        "based cbc",
+        "competency based",
+        "competency based cbc",
+        "course",
+        "special",
+        "special need"
+      ],
+      "weights": [
+        68.68140504045074,
+        40.82257925795718,
+        37.010006999575296,
+        34.06103567499491,
+        33.010006396163455,
+        31.010005771851468,
+        27.01000520580192,
+        21.998009829863598,
+        21.35519625436533,
+        20.927364394895857
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_25": {
+      "words": [
+        "digital",
+        "approved",
+        "book",
+        "list",
+        "authority",
+        "ministry",
+        "material",
+        "info kicd",
+        "info",
+        "search"
+      ],
+      "weights": [
+        39.11454538506783,
+        39.01000962333302,
+        36.00999511494509,
+        24.084619048208722,
+        24.065764397498384,
+        24.06540161178447,
+        24.01937077244155,
+        18.01000374594143,
+        18.010002983517094,
+        15.052298416594004
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_26": {
+      "words": [
+        "linkedin",
+        "sign",
+        "policy",
+        "email",
+        "nederland",
+        "continue",
+        "link",
+        "privacy policy",
+        "privacy",
+        "view"
+      ],
+      "weights": [
+        7.007688238048671,
+        6.81217524698557,
+        5.21054993699564,
+        4.087030822808319,
+        4.0099999999990725,
+        3.0099999999988176,
+        2.1020374826823685,
+        2.0594610055059586,
+        2.0594610055059586,
+        2.010008954272433
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_27": {
+      "words": [
+        "year pre primary",
+        "forgot password log",
+        "foster",
+        "forum event calendar",
+        "forum event",
+        "forum",
+        "format",
+        "form1 number number",
+        "form1 number",
+        "form1"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_28": {
+      "words": [
+        "lesson",
+        "primary",
+        "primary number",
+        "educhannel",
+        "interactive",
+        "digital",
+        "digital content",
+        "interactive digital",
+        "interactive digital content",
+        "educhannel lesson"
+      ],
+      "weights": [
+        13569.906155064806,
+        9534.70320429469,
+        8288.816154912192,
+        8208.68976889656,
+        8123.905196071001,
+        8117.49950634421,
+        7880.473662935248,
+        7830.968550377851,
+        7828.968539747662,
+        7698.997651073233
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_29": {
+      "words": [
+        "moreguidelines",
+        "math science",
+        "content login educhannel",
+        "forgotten username",
+        "foster continuous",
+        "foster collaboration educator",
+        "foster collaboration",
+        "foster",
+        "forum event calendar",
+        "forum event"
+      ],
+      "weights": [
+        9.00999999995046,
+        2.0100032958386924,
+        2.009999999621597,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    }
+  },
+  "cluster_analysis": {
+    "cluster_7": {
+      "size": 31,
+      "subjects": [
+        "mathematics",
+        "science",
+        "social_studies"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.199410209110066,
+      "dominant_topics": [
+        28
+      ],
+      "sample_titles": [
+        "Child Online Safety",
+        "Special Needs Education",
+        "Open Education Resourses(OERs)"
+      ]
+    },
+    "cluster_23": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.3650684931506847,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Health Literacy"
+      ]
+    },
+    "cluster_24": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.508461538461538,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_9": {
+      "size": 3,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 1.9047619047619044,
+      "dominant_topics": [
+        17
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_6": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.386116589962744,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "ABRACADABRA Grade 1,2 and 3",
+        "READS"
+      ]
+    },
+    "cluster_8": {
+      "size": 4,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.4502304147465437,
+      "dominant_topics": [
+        10
+      ],
+      "sample_titles": [
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences"
+      ]
+    },
+    "cluster_3": {
+      "size": 3,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.5274069713819496,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Digital Content Portal",
+        "Digital Content Portal",
+        "Digital Content Portal"
+      ]
+    },
+    "cluster_1": {
+      "size": 6,
+      "subjects": [],
+      "grade_levels": [
+        "unknown",
+        "grade_6",
+        "grade_1"
+      ],
+      "avg_complexity": 1.9301588239489174,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "Contact – oer.kec.ac.ke",
+        "About – oer.kec.ac.ke",
+        "Events for September 2025 – oer.kec.ac.ke"
+      ]
+    },
+    "cluster_11": {
+      "size": 4,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.218536585365854,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Kenya Education Cloud | Unlimited learning experiences",
+        "Kenya Education Cloud | Unlimited learning experiences",
+        "Kenya Education Cloud | Unlimited learning experiences"
+      ]
+    },
+    "cluster_12": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2650061425061425,
+      "dominant_topics": [
+        7,
+        4
+      ],
+      "sample_titles": [
+        "Kenya Education Cloud | Unlimited learning experiences",
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences"
+      ]
+    },
+    "cluster_16": {
+      "size": 3,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.222153846153846,
+      "dominant_topics": [
+        25
+      ],
+      "sample_titles": [
+        "Search | Verify",
+        "Search | Verify",
+        "Search | Verify"
+      ]
+    },
+    "cluster_14": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.4756521739130433,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Kenya Education Cloud | Unlimited learning experiences"
+      ]
+    },
+    "cluster_20": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2304347826086954,
+      "dominant_topics": [
+        26
+      ],
+      "sample_titles": [
+        "Sign in"
+      ]
+    },
+    "cluster_22": {
+      "size": 7,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.5137681159420286,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_4": {
+      "size": 7,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 1.9106870229007635,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_21": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.2704225352112677,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Digital Content Portal"
+      ]
+    },
+    "cluster_0": {
+      "size": 3,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2579344368929593,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_15": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.410526315789473,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_5": {
+      "size": 4,
+      "subjects": [],
+      "grade_levels": [
+        "grade_6"
+      ],
+      "avg_complexity": 1.9188464724578758,
+      "dominant_topics": [
+        8
+      ],
+      "sample_titles": [
+        "Grade 6 Christian Religious Education",
+        "Grade 6 Social Studies – Strand 2 (Visual Impairment)",
+        "Grade 6 Music"
+      ]
+    },
+    "cluster_10": {
+      "size": 3,
+      "subjects": [],
+      "grade_levels": [
+        "grade_6"
+      ],
+      "avg_complexity": 2.0827635327635328,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "oer.kec.ac.ke",
+        "oer.kec.ac.ke",
+        "oer.kec.ac.ke"
+      ]
+    },
+    "cluster_18": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.3414455626715465,
+      "dominant_topics": [
+        6
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_2": {
+      "size": 2,
+      "subjects": [],
+      "grade_levels": [
+        "grade_1"
+      ],
+      "avg_complexity": 2.014761055937526,
+      "dominant_topics": [
+        20,
+        8
+      ],
+      "sample_titles": [
+        "Advanced search",
+        "Courses – oer.kec.ac.ke"
+      ]
+    },
+    "cluster_19": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.23,
+      "dominant_topics": [
+        24
+      ],
+      "sample_titles": [
+        "Sorry, something went wrong."
+      ]
+    },
+    "cluster_13": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 1.9210526315789476,
+      "dominant_topics": [
+        8
+      ],
+      "sample_titles": [
+        "Log In"
+      ]
+    },
+    "cluster_17": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2793010752688168,
+      "dominant_topics": [
+        24
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    }
+  },
+  "curriculum_structure": {
+    "form_1": {
+      "total_content": 46,
+      "subjects_covered": [
+        "mathematics",
+        "science",
+        "social_studies"
+      ],
+      "topics_covered": [
+        28,
+        7,
+        10
+      ],
+      "avg_complexity": 2.2575376001151066,
+      "content_distribution": {
+        "7": 31,
+        "8": 4,
+        "11": 4,
+        "3": 3,
+        "6": 2,
+        "23": 1,
+        "21": 1
+      }
+    },
+    "grade_6": {
+      "total_content": 8,
+      "subjects_covered": [],
+      "topics_covered": [
+        8,
+        12
+      ],
+      "avg_complexity": 1.968435751491453,
+      "content_distribution": {
+        "5": 4,
+        "10": 3,
+        "1": 1
+      }
+    },
+    "grade_1": {
+      "total_content": 3,
+      "subjects_covered": [],
+      "topics_covered": [
+        20,
+        12,
+        8
+      ],
+      "avg_complexity": 1.9626396861466457,
+      "content_distribution": {
+        "2": 2,
+        "1": 1
+      }
+    }
+  },
+  "content_gaps": [
+    {
+      "grade": "form_1",
+      "missing_subjects": [
+        "languages"
+      ],
+      "severity": "medium"
+    }
+  ],
+  "recommendations": [
+    {
+      "type": "content_gap",
+      "priority": "high",
+      "description": "Add languages content for form_1",
+      "action": "Develop or source educational materials for missing subjects in form_1"
+    }
+  ]
+}

@@ -1,0 +1,932 @@
+{
+  "topic_0": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_1": {
+    "words": [
+      "van",
+      "die",
+      "hierdie",
+      "velde",
+      "word",
+      "gemerk",
+      "verlangde velde",
+      "hierdie vorm gemerk",
+      "hierdie vorm",
+      "vorm gemerk"
+    ],
+    "weights": [
+      21.76464836951956,
+      18.69975360066521,
+      7.620256395514425,
+      7.009999999999629,
+      5.998117454069619,
+      5.0099999999997165,
+      5.0099999999997165,
+      5.0099999999997165,
+      5.0099999999997165,
+      5.0099999999997165
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_2": {
+    "words": [
+      "sne",
+      "digital",
+      "primary",
+      "cbc",
+      "primary number",
+      "pre",
+      "pre primary",
+      "retention",
+      "cloud",
+      "resource"
+    ],
+    "weights": [
+      116.07353694425416,
+      87.683796078806,
+      83.03394418162476,
+      79.39412497632377,
+      65.80054525467725,
+      64.11683478393114,
+      62.583532455554376,
+      49.43632334982936,
+      49.2770662695738,
+      49.19428094139481
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_3": {
+    "words": [
+      "digital",
+      "digital content",
+      "resource",
+      "learner",
+      "access",
+      "accessible",
+      "interactive",
+      "lesson",
+      "access digital content",
+      "access digital"
+    ],
+    "weights": [
+      45.739933529300544,
+      44.15572929615806,
+      35.53287054904175,
+      35.078374290708055,
+      25.930387144787005,
+      23.9227494536339,
+      23.18773830274468,
+      21.804015351454485,
+      20.009999999998886,
+      20.009999999998886
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_4": {
+    "words": [
+      "digital",
+      "approved",
+      "book",
+      "list",
+      "authority",
+      "ministry",
+      "material",
+      "info kicd",
+      "info",
+      "search"
+    ],
+    "weights": [
+      39.28791749449013,
+      39.01001267666341,
+      36.00999711497182,
+      25.894272486516343,
+      24.14999870921476,
+      24.1483521424808,
+      24.010019657279226,
+      18.01000307517658,
+      18.010002707726915,
+      15.079076231166065
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_5": {
+    "words": [
+      "search home calendar",
+      "lesson search home",
+      "search digital content",
+      "lesson search digital",
+      "number home calendar",
+      "forgotten",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format"
+    ],
+    "weights": [
+      2.010004009504858,
+      2.010004009504858,
+      2.009999999967869,
+      2.009999999967869,
+      1.0100199442666395,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_6": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_7": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_8": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_9": {
+    "words": [
+      "skill",
+      "based",
+      "competency",
+      "based cbc",
+      "competency based",
+      "cbc",
+      "competency based cbc",
+      "special need",
+      "need",
+      "special"
+    ],
+    "weights": [
+      68.62292232347605,
+      53.30990355977778,
+      45.009999999983215,
+      41.00999999999815,
+      39.009999999980636,
+      35.45326347139234,
+      35.00999999999788,
+      25.084713431672526,
+      25.083946468995393,
+      24.020047220006607
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_10": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_11": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_12": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_13": {
+    "words": [
+      "search",
+      "lesson search",
+      "portal home",
+      "digital content portal",
+      "content portal",
+      "content portal home",
+      "search lesson search",
+      "search lesson",
+      "portal home lesson",
+      "home lesson search"
+    ],
+    "weights": [
+      9.941060717609856,
+      8.010049676507977,
+      8.009999999999202,
+      8.009999999999202,
+      8.009999999999202,
+      8.009999999999202,
+      4.010023450996312,
+      4.010023450996312,
+      4.009999999999645,
+      4.009999999999645
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_14": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_15": {
+    "words": [
+      "item",
+      "approved",
+      "book",
+      "publisher",
+      "activity",
+      "activity number",
+      "art",
+      "technology",
+      "language",
+      "science"
+    ],
+    "weights": [
+      376.00999999999897,
+      281.0100827442655,
+      246.01001313935296,
+      188.01000609404096,
+      132.57811772513145,
+      114.46080875272457,
+      94.39659616198793,
+      86.3039570115947,
+      85.4124643055066,
+      72.14585273306923
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_16": {
+    "words": [
+      "sne number",
+      "cbc sne",
+      "number cbc sne",
+      "number cbc",
+      "profiel",
+      "skep",
+      "gebruikersnaam",
+      "teken",
+      "sne number cbc",
+      "cbc sne number"
+    ],
+    "weights": [
+      80.00999999999793,
+      72.00999999999792,
+      72.00999999999792,
+      72.00999999999792,
+      63.15967518226366,
+      63.15967518226366,
+      56.21250128042118,
+      56.124506591314116,
+      56.009999999997916,
+      56.009999999997916
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_17": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_18": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_19": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_20": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_21": {
+    "words": [
+      "area",
+      "resource",
+      "log",
+      "menu",
+      "register",
+      "event calendar",
+      "menu area forum",
+      "log register",
+      "menu area",
+      "forum event"
+    ],
+    "weights": [
+      274.47703399553654,
+      126.18063756238031,
+      121.54175154110503,
+      98.19127296313938,
+      77.41956993770506,
+      77.15242947546525,
+      77.15242947546525,
+      77.15242947546525,
+      77.15242947546525,
+      77.15242947546525
+    ],
+    "interpretation": {
+      "subject": "mathematics",
+      "category": "geometry",
+      "confidence": 0.14285714285714285
+    }
+  },
+  "topic_22": {
+    "words": [
+      "area",
+      "resource",
+      "event",
+      "menu",
+      "forum",
+      "app",
+      "mobile app",
+      "home",
+      "mobile",
+      "calendar"
+    ],
+    "weights": [
+      185.4798515479994,
+      123.96299372129639,
+      97.89810637241789,
+      97.82872703685645,
+      94.88793097792113,
+      84.88098590889324,
+      80.87461025441952,
+      80.1412971069349,
+      79.08085232018067,
+      79.0403487653887
+    ],
+    "interpretation": {
+      "subject": "mathematics",
+      "category": "geometry",
+      "confidence": 0.14285714285714285
+    }
+  },
+  "topic_23": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_24": {
+    "words": [
+      "username",
+      "password",
+      "sign",
+      "account",
+      "log",
+      "remember",
+      "account sign",
+      "password remember",
+      "remember username",
+      "password remember username"
+    ],
+    "weights": [
+      49.962402121721674,
+      40.96992582732757,
+      37.95977928293603,
+      37.6639176980826,
+      34.16506193692897,
+      22.93735071257183,
+      22.009999999999657,
+      18.010003177879973,
+      18.00999999999916,
+      18.00999999999916
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_25": {
+    "words": [
+      "living",
+      "principle",
+      "value",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format"
+    ],
+    "weights": [
+      12.33944063336327,
+      8.009999999966094,
+      6.0100025792895435,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_26": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_27": {
+    "words": [
+      "year pre primary",
+      "forgot password teken",
+      "foster collaboration",
+      "foster",
+      "forum event calendar",
+      "forum event",
+      "forum",
+      "format",
+      "form1 number number",
+      "form1 number"
+    ],
+    "weights": [
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01,
+      0.01
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_28": {
+    "words": [
+      "soek",
+      "follow",
+      "resource",
+      "afrikaans",
+      "teken",
+      "digital",
+      "english",
+      "gebruikersnaam",
+      "link",
+      "cloud"
+    ],
+    "weights": [
+      63.009999999998485,
+      60.00999999999102,
+      55.774091996507885,
+      54.009999999998556,
+      50.89549340868343,
+      44.36404880482831,
+      30.275485746230675,
+      29.807498719576515,
+      29.182904553440572,
+      28.58296064963962
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  },
+  "topic_29": {
+    "words": [
+      "lesson",
+      "primary",
+      "primary number",
+      "educhannel",
+      "interactive",
+      "digital",
+      "digital content",
+      "interactive digital",
+      "interactive digital content",
+      "educhannel lesson"
+    ],
+    "weights": [
+      13569.719233334956,
+      9533.947957996766,
+      8288.175575562746,
+      8209.009986567902,
+      8123.784090515036,
+      8118.782546817949,
+      7880.49105203149,
+      7830.984403469375,
+      7828.984396818765,
+      7699.010001048073
+    ],
+    "interpretation": {
+      "subject": "general",
+      "category": "mixed",
+      "confidence": 0
+    }
+  }
+}

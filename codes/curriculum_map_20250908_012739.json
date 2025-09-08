@@ -1,0 +1,1418 @@
+{
+  "metadata": {
+    "generated_at": "2025-09-08T01:27:34.283754",
+    "total_documents": 85,
+    "n_topics": 30,
+    "n_clusters": 25
+  },
+  "topic_analysis": {
+    "topic_0": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_1": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_2": {
+      "words": [
+        "software",
+        "medium",
+        "limited",
+        "year pre primary",
+        "external link ministry",
+        "farming importance",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq"
+      ],
+      "weights": [
+        6.009999999983356,
+        2.0100229659663382,
+        2.0100030345647215,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_3": {
+      "words": [
+        "retention",
+        "category",
+        "course category",
+        "year pre primary",
+        "facebook",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson"
+      ],
+      "weights": [
+        39.30959507328833,
+        5.947627627730407,
+        2.0100008456098233,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_4": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_5": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_6": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_7": {
+      "words": [
+        "item",
+        "approved",
+        "book",
+        "publisher",
+        "activity",
+        "activity number",
+        "art",
+        "language",
+        "technology",
+        "science"
+      ],
+      "weights": [
+        376.0099999999968,
+        281.01003932949,
+        246.0100103989888,
+        188.0100065650037,
+        132.11757890719494,
+        114.1017990260047,
+        106.09894178971294,
+        84.0811787240563,
+        80.79053541449066,
+        79.48554922312445
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_8": {
+      "words": [
+        "information",
+        "age",
+        "required",
+        "french",
+        "field",
+        "new",
+        "consent",
+        "field marked",
+        "marked",
+        "field marked required"
+      ],
+      "weights": [
+        40.08193528587329,
+        19.009999999961938,
+        15.01000233733268,
+        12.333467343817132,
+        11.009999999999044,
+        10.975839313589889,
+        10.009999999999167,
+        9.009999999998955,
+        9.009999999998955,
+        5.009999999999707
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_9": {
+      "words": [
+        "login educhannel",
+        "year pre primary",
+        "featured",
+        "farming importance",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel"
+      ],
+      "weights": [
+        2.0099999997297715,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_10": {
+      "words": [
+        "password",
+        "site",
+        "user",
+        "email",
+        "sign",
+        "announcement",
+        "account",
+        "policy",
+        "linkedin",
+        "address"
+      ],
+      "weights": [
+        27.502411559781734,
+        16.991651378656005,
+        13.214084814672665,
+        13.050723585399176,
+        10.263245008932596,
+        9.977515876790852,
+        7.211686896424618,
+        7.071768266380363,
+        7.010018652326066,
+        6.662980200237039
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_11": {
+      "words": [
+        "skill",
+        "based",
+        "competency",
+        "cbc",
+        "based cbc",
+        "competency based",
+        "competency based cbc",
+        "course",
+        "special need",
+        "need"
+      ],
+      "weights": [
+        68.54998635922848,
+        53.231172375686306,
+        45.0099999999835,
+        42.225444648340165,
+        41.0099999999986,
+        39.00999999998098,
+        35.009999999998406,
+        27.805417226732985,
+        25.049893287599918,
+        23.919572730114627
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_12": {
+      "words": [
+        "area",
+        "log",
+        "menu",
+        "event",
+        "forum",
+        "app",
+        "mobile app",
+        "mobile",
+        "calendar",
+        "register"
+      ],
+      "weights": [
+        388.31807207475697,
+        166.07442915803495,
+        152.49623149009315,
+        140.98982995214212,
+        137.96895691673785,
+        127.89267215498346,
+        123.85892291712672,
+        123.67126980552904,
+        121.83942318624067,
+        120.83223422166753
+      ],
+      "interpretation": {
+        "subject": "mathematics",
+        "category": "geometry",
+        "confidence": 0.14285714285714285
+      }
+    },
+    "topic_13": {
+      "words": [
+        "read",
+        "concordia",
+        "ltk",
+        "concordia university",
+        "university",
+        "lesson open resourses",
+        "lesson open",
+        "home lesson open",
+        "oers",
+        "resourses oers"
+      ],
+      "weights": [
+        8.901246617808793,
+        8.792664822989074,
+        8.318257204903903,
+        8.318257204903903,
+        8.30973305053347,
+        8.009999999978474,
+        8.009999999978474,
+        8.009999999978474,
+        7.8974928141514145,
+        7.897476903955591
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_14": {
+      "words": [
+        "lesson",
+        "primary",
+        "primary number",
+        "educhannel",
+        "interactive",
+        "digital content",
+        "interactive digital",
+        "interactive digital content",
+        "educhannel lesson",
+        "special"
+      ],
+      "weights": [
+        13550.594432652204,
+        9530.081433383455,
+        8284.701114665226,
+        8207.865124728,
+        8117.377681123639,
+        7875.9925238282385,
+        7822.995574304798,
+        7821.5878406001,
+        7698.188602728476,
+        7225.694709763671
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_15": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_16": {
+      "words": [
+        "material",
+        "approved",
+        "book",
+        "authority",
+        "ministry",
+        "list",
+        "info kicd",
+        "info",
+        "development",
+        "teacher"
+      ],
+      "weights": [
+        40.010025430138576,
+        39.010016161775326,
+        36.01000322384108,
+        28.010020899544152,
+        24.010018563796926,
+        24.010016790734777,
+        18.53596772571355,
+        18.415493291057995,
+        16.011370969411793,
+        16.010008083482628
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_17": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_18": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_19": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_20": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_21": {
+      "words": [
+        "kicd cloud",
+        "learning",
+        "method",
+        "interactive content",
+        "interactive content support",
+        "protection",
+        "developmentdesai muranga",
+        "adt",
+        "calendar pre primary",
+        "home calendar"
+      ],
+      "weights": [
+        33.15773758934756,
+        32.65933500614341,
+        32.65933500614341,
+        32.65933500614341,
+        32.65933500614341,
+        32.65933500614341,
+        32.65933500614341,
+        32.65933500614341,
+        31.5492494606482,
+        31.5492494606482
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_22": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_23": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_24": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_25": {
+      "words": [
+        "sne",
+        "sne number",
+        "cbc",
+        "number cbc",
+        "number cbc sne",
+        "cbc sne",
+        "cbc sne number",
+        "sne number cbc",
+        "primary",
+        "pre"
+      ],
+      "weights": [
+        110.97038624143389,
+        80.00999999999922,
+        72.03990596117814,
+        72.00999999999924,
+        72.00999999999924,
+        72.00999999999924,
+        56.00999999999923,
+        56.00999999999923,
+        51.688612128694174,
+        40.38450225947521
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_26": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_27": {
+      "words": [
+        "search",
+        "digital content",
+        "log",
+        "follow",
+        "cloud",
+        "username",
+        "english",
+        "interactive",
+        "accessible",
+        "authority"
+      ],
+      "weights": [
+        92.12778316093606,
+        66.84370143444633,
+        58.68398118907537,
+        56.008455894306586,
+        53.765630852418404,
+        52.99019050160425,
+        52.40207647587938,
+        49.3609566822862,
+        48.30357463408606,
+        44.9218832867621
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_28": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    },
+    "topic_29": {
+      "words": [
+        "year pre primary",
+        "external link additional",
+        "farming",
+        "faq info kicd",
+        "faq info",
+        "faq",
+        "family educhannel lesson",
+        "family educhannel",
+        "family",
+        "facebook share linkedin"
+      ],
+      "weights": [
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01,
+        0.01
+      ],
+      "interpretation": {
+        "subject": "general",
+        "category": "mixed",
+        "confidence": 0
+      }
+    }
+  },
+  "cluster_analysis": {
+    "cluster_8": {
+      "size": 3,
+      "subjects": [],
+      "grade_levels": [
+        "grade_6"
+      ],
+      "avg_complexity": 2.0827635327635328,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "oer.kec.ac.ke",
+        "oer.kec.ac.ke",
+        "oer.kec.ac.ke"
+      ]
+    },
+    "cluster_24": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "grade_1"
+      ],
+      "avg_complexity": 1.994346829640947,
+      "dominant_topics": [
+        7
+      ],
+      "sample_titles": [
+        "Advanced search"
+      ]
+    },
+    "cluster_11": {
+      "size": 4,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.4500284692585224,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences"
+      ]
+    },
+    "cluster_0": {
+      "size": 6,
+      "subjects": [],
+      "grade_levels": [
+        "unknown",
+        "grade_1",
+        "grade_6"
+      ],
+      "avg_complexity": 1.9301588239489174,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "About – oer.kec.ac.ke",
+        "Events for September 2025 – oer.kec.ac.ke",
+        "Mobile App"
+      ]
+    },
+    "cluster_16": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.23,
+      "dominant_topics": [
+        11
+      ],
+      "sample_titles": [
+        "Sorry, something went wrong."
+      ]
+    },
+    "cluster_3": {
+      "size": 31,
+      "subjects": [
+        "mathematics",
+        "science",
+        "social_studies"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.199406965031796,
+      "dominant_topics": [
+        14
+      ],
+      "sample_titles": [
+        "Child Online Safety",
+        "Open Education Resourses(OERs)",
+        "Grade 1"
+      ]
+    },
+    "cluster_1": {
+      "size": 3,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.5263957150275558,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Digital Content Portal",
+        "Digital Content Portal",
+        "Digital Content Portal"
+      ]
+    },
+    "cluster_2": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.386116589962744,
+      "dominant_topics": [
+        25,
+        27
+      ],
+      "sample_titles": [
+        "READS",
+        "ABRACADABRA Grade 1,2 and 3"
+      ]
+    },
+    "cluster_9": {
+      "size": 4,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.218536585365854,
+      "dominant_topics": [
+        25
+      ],
+      "sample_titles": [
+        "Kenya Education Cloud | Unlimited learning experiences",
+        "Kenya Education Cloud | Unlimited learning experiences",
+        "Kenya Education Cloud | Unlimited learning experiences"
+      ]
+    },
+    "cluster_4": {
+      "size": 4,
+      "subjects": [],
+      "grade_levels": [
+        "grade_6"
+      ],
+      "avg_complexity": 1.9188464724578755,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "Grade 6 Music",
+        "Grade 6 Agriculture",
+        "Grade 6 Social Studies – Strand 2 (Visual Impairment)"
+      ]
+    },
+    "cluster_10": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2650061425061425,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Digital Content | Kenya Education Cloud | Unlimited Learning Experiences",
+        "Kenya Education Cloud | Unlimited learning experiences"
+      ]
+    },
+    "cluster_5": {
+      "size": 8,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.5091248606465992,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_15": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 1.9210526315789476,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "Log In"
+      ]
+    },
+    "cluster_17": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.4756521739130433,
+      "dominant_topics": [
+        25
+      ],
+      "sample_titles": [
+        "Kenya Education Cloud | Unlimited learning experiences"
+      ]
+    },
+    "cluster_18": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.0989690721649485,
+      "dominant_topics": [
+        8
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_6": {
+      "size": 3,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.222153846153846,
+      "dominant_topics": [
+        16
+      ],
+      "sample_titles": [
+        "Search | Verify",
+        "Search | Verify",
+        "Search | Verify"
+      ]
+    },
+    "cluster_22": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 1.9195394277739006,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_12": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.4187499999999997,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_7": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.2304347826086954,
+      "dominant_topics": [
+        10
+      ],
+      "sample_titles": [
+        "Sign in"
+      ]
+    },
+    "cluster_21": {
+      "size": 2,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.4513698630136984,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces",
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_20": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.3650684931506847,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Health Literacy"
+      ]
+    },
+    "cluster_13": {
+      "size": 1,
+      "subjects": [],
+      "grade_levels": [
+        "grade_1"
+      ],
+      "avg_complexity": 2.0351752822341056,
+      "dominant_topics": [
+        12
+      ],
+      "sample_titles": [
+        "Courses – oer.kec.ac.ke"
+      ]
+    },
+    "cluster_19": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "form_1"
+      ],
+      "avg_complexity": 2.2704225352112677,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Digital Content Portal"
+      ]
+    },
+    "cluster_14": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.276518218623482,
+      "dominant_topics": [
+        11
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    },
+    "cluster_23": {
+      "size": 1,
+      "subjects": [
+        "mathematics"
+      ],
+      "grade_levels": [
+        "unknown"
+      ],
+      "avg_complexity": 2.3619565217391307,
+      "dominant_topics": [
+        27
+      ],
+      "sample_titles": [
+        "Elimika Platform | Kenya Education Cloud | Unlimited Learning Experinces"
+      ]
+    }
+  },
+  "curriculum_structure": {
+    "grade_6": {
+      "total_content": 8,
+      "subjects_covered": [],
+      "topics_covered": [
+        12,
+        7
+      ],
+      "avg_complexity": 1.968435751491453,
+      "content_distribution": {
+        "4": 4,
+        "8": 3,
+        "0": 1
+      }
+    },
+    "grade_1": {
+      "total_content": 3,
+      "subjects_covered": [],
+      "topics_covered": [
+        12,
+        7
+      ],
+      "avg_complexity": 1.9626396861466457,
+      "content_distribution": {
+        "24": 1,
+        "0": 1,
+        "13": 1
+      }
+    },
+    "form_1": {
+      "total_content": 46,
+      "subjects_covered": [
+        "mathematics",
+        "science",
+        "social_studies"
+      ],
+      "topics_covered": [
+        14,
+        27,
+        25
+      ],
+      "avg_complexity": 2.257451901909854,
+      "content_distribution": {
+        "3": 31,
+        "11": 4,
+        "9": 4,
+        "1": 3,
+        "2": 2,
+        "20": 1,
+        "19": 1
+      }
+    }
+  },
+  "content_gaps": [
+    {
+      "grade": "form_1",
+      "missing_subjects": [
+        "languages"
+      ],
+      "severity": "medium"
+    }
+  ],
+  "recommendations": [
+    {
+      "type": "content_gap",
+      "priority": "high",
+      "description": "Add languages content for form_1",
+      "action": "Develop or source educational materials for missing subjects in form_1"
+    }
+  ]
+}
