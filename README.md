@@ -21,7 +21,12 @@ The high processing success rate of 98.96% reflects the sophisticated quality as
 
 ### NLP Performance and System Configuration
 
-![Curriculum Analysis Research Results Dashboard](curriculum_analysis_20250908_085658.png)
+<img width="1489" height="985" alt="image" src="https://github.com/user-attachments/assets/8a22be47-9a95-4226-87db-ac1a35b63c81" />
+
+
+
+<img width="4170" height="2955" alt="image" src="https://github.com/user-attachments/assets/61f5cd68-d829-4480-acfc-a6d847e9f354" />
+
 
 The comprehensive curriculum analysis dashboard reveals exceptional research outcomes across four critical performance dimensions, demonstrating the robustness and effectiveness of the automated curriculum topic clustering system. The data collection results show outstanding performance with 95 educational items successfully scraped from the Kenya Education Cloud ecosystem, with 94 items retained after rigorous quality filtering, representing a 98.95% retention rate that validates the precision of the content selection methodology. This exceptional performance indicates that the system successfully identifies and processes authentic educational materials while filtering out irrelevant or low-quality content, establishing a solid foundation for subsequent analytical phases. The minimal loss of only one item during quality assessment demonstrates the effectiveness of the multi-criteria validation approach, which evaluates content relevance, educational value, structural integrity, and curriculum alignment. The high retention rate also reflects the quality of the Kenya Education Cloud as a reliable repository of educational content, confirming its suitability as a primary data source for comprehensive curriculum analysis research.
 
@@ -30,6 +35,9 @@ The topic coherence analysis presents remarkable results with a coherence score 
 The NLP analysis configuration demonstrates sophisticated parameter optimization designed to balance computational efficiency with analytical depth and educational applicability. The implementation of 30 LDA topics provides optimal granularity for capturing the full spectrum of educational themes present in Kenyan curriculum content while maintaining interpretability and avoiding over-segmentation that would fragment coherent educational concepts. The complementary deployment of 25 hierarchical clusters offers an alternative organizational framework that enables cross-validation of thematic groupings and provides curriculum designers with multiple perspectives on content relationships and structural dependencies. This dual-approach methodology ensures robust validation of identified patterns while accommodating different analytical needs and use cases within educational planning contexts. The careful selection of these parameters reflects extensive experimentation and validation processes, ensuring that the system generates comprehensive curriculum insights while maintaining practical applicability for real-world educational environments and stakeholder requirements.
 
 The pipeline execution summary demonstrates flawless operational performance with all four analytical phases completed successfully and zero errors encountered during the comprehensive 9-minute 32-second execution cycle. This error-free execution validates the robustness of the system architecture, the effectiveness of the comprehensive error handling mechanisms, and the reliability of the integrated analytical pipeline for production-level curriculum analysis applications. The successful completion of all phases—data collection, NLP analysis, machine learning classification, and research report generation—demonstrates the system's capability to execute end-to-end curriculum analysis workflows without manual intervention or error recovery procedures. The efficient execution time of approximately 9.5 minutes for processing 95 educational documents showcases the system's scalability potential for larger curriculum analysis projects and real-time educational content monitoring applications. This operational excellence establishes confidence in the system's readiness for deployment in educational institutions and curriculum development organizations seeking automated, reliable, and comprehensive curriculum analysis capabilities.
+
+<img width="5970" height="4425" alt="image" src="https://github.com/user-attachments/assets/d1a319ef-0050-4604-96dc-47b82c6169ac" />
+
 
 ## System Architecture
 
